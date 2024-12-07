@@ -5,6 +5,7 @@
     height: 100vh;
     background-image: url(../img/bg.jpg);
     background-size: cover;
+    BAK
     align-content: center;
     justify-items: center;
 
@@ -33,6 +34,10 @@
     height: 55px;
     right: 30px;
     bottom: 85px;
+}
+
+.cel{
+    display: none;
 }
 
 @media only screen and (max-width: 480px) {
